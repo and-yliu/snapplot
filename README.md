@@ -1,6 +1,6 @@
 # 📸 Snapplot
 
-**Snapplot** is a real-time social scavenger hunt that turns your physical surroundings into a chaotic, AI-generated story. Built for [Hackathon Name, e.g., nwHacks 2026], it bridges the gap between digital gaming and real-world interaction.
+**Snapplot** is a real-time social scavenger hunt that turns your physical surroundings into a chaotic, AI-generated story. Built for nwHacks 2026, it bridges the gap between digital gaming and real-world interaction.
 
 ## 🚀 Inspiration
 We wanted to bring the game back to reality. Instead of staring at screens, Snapplot forces players to look up, run around, and interact with the world to solve creative prompts.
@@ -15,7 +15,7 @@ We wanted to bring the game back to reality. Instead of staring at screens, Snap
 ## 🛠️ Tech Stack
 - **Frontend:** React Native (Expo), TypeScript, NativeWind (TailwindCSS)
 - **Backend:** Node.js, Express, Socket.io
-- **AI:** [Insert AI Model used, e.g., OpenAI API / Gemini] for story generation.
+- **AI:** Gemini and OpenRouter API for story generation.
 - **Image Processing:** Sharp (server-side image rotation and compression).
 
 ## 🏃‍♂️ Getting Started
